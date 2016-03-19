@@ -11,13 +11,8 @@ body {
     60% {background: #00ffbf}
     80% {background: #ff00ff}
     100% {background: #ff4000}
-    0% {color: #ffbf00}
-    20% {color: #bfff00}
-    40% {color: #00ffbf}
-    60% {color: #ff00ff}
-    80% {color: #ff4000}
-    100% {color: #ffbf00}
 }
+
 @-moz-keyframes pulsate {
     0% {background: #ff4000}
     20% {background: #ffbf00}
@@ -25,13 +20,8 @@ body {
     60% {background: #00ffbf}
     80% {background: #ff00ff}
     100% {background: #ff4000}
-    0% {color: #ffbf00}
-    20% {color: #bfff00}
-    40% {color: #00ffbf}
-    60% {color: #ff00ff}
-    80% {color: #ff4000}
-    100% {color: #ffbf00}
 }
+
 @keyframes pulsate {
     0% {background: #ff4000}
     20% {background: #ffbf00}
@@ -39,12 +29,6 @@ body {
     60% {background: #00ffbf}
     80% {background: #ff00ff}
     100% {background: #ff4000}
-    0% {color: #ffbf00}
-    20% {color: #bfff00}
-    40% {color: #00ffbf}
-    60% {color: #ff00ff}
-    80% {color: #ff4000}
-    100% {color: #ffbf00}
     
 }
 
